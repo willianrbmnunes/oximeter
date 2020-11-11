@@ -1,0 +1,14 @@
+name=PAJ02
+sex=0
+age=59
+Nationality=
+weight=68.00 kg
+height=165.00 cm
+comment=
+PIType=1
+saveDataType=0
+deviceType=50D(A)+     
+deviceID=user   
+deviceCompany=       
+startTime=2020-10-28 14:37:25
+length=954
